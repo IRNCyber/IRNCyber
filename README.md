@@ -10,7 +10,7 @@
 
 
 ---
-[![RohanCyberOps](https://img.shields.io/badge/CyberOps-%23005BAC.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  [![RohanDevOps](https://img.shields.io/badge/DevOps-%23FFFFFF.svg?logo=github&logoColor=black)](https://github.com/RohanDevOps)  [![RohanNaagar](https://img.shields.io/badge/RohanNaagar-%23ED2939.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
+[![INRCyber](https://img.shields.io/badge/CyberOps-%23005BAC.svg?logo=github&logoColor=white)](https://github.com/INRCyber)  [![IRNDevc](https://img.shields.io/badge/DevOps-%23FFFFFF.svg?logo=github&logoColor=black)](https://github.com/IRNDevc)  [![RohanNaagar](https://img.shields.io/badge/RohanNaagar-%23ED2939.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
 
 ---
 # 👋 Hi, I'm Rohan Naagar    
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 [![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/RohanCyberOps)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/RohanCyberOps)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/RohanCyberOps)  
 
 ## 🎗️ **Programming Profiles**  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rohandevops/)  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=coursera&logoColor=white)](https://www.coursera.org/user/f3bdf7152cfb4a2af572afdc67e2ca3b)  [![Codecademy](https://img.shields.io/badge/Codecademy-%231E415E.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/RohanDevOps)  [![Udemy](https://img.shields.io/badge/Udemy-%23EC5252.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/rohan-naagar/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/IRNDev/)  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=coursera&logoColor=white)](https://www.coursera.org/user/f3bdf7152cfb4a2af572afdc67e2ca3b)  [![Codecademy](https://img.shields.io/badge/Codecademy-%231E415E.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/RohanDevOps)  [![Udemy](https://img.shields.io/badge/Udemy-%23EC5252.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/rohan-naagar/)  
 
 
 ## 😈 **Ethical Hacker**  
@@ -346,9 +346,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
               
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohancyberops&theme=flag-india&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohancyberops&theme=flag-india&hide_border=false&layout=compact&langs_count=20&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=INRCyber&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=INRCyber&theme=flag-india&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=INRCyber&theme=flag-india&hide_border=false&layout=compact&langs_count=20&count_private=true)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -365,8 +365,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 We extend our sincere appreciation to all individuals who have contributed to this project. Your commitment and effort play a pivotal role in enhancing the quality and functionality of this repository.
 
-<a href="https://github.com/RohanCyberOps/Rust-Weather--App/graphs/contributors">
-  <img alt="Rust-Weather-App contributors" height="48" src="https://contrib.rocks/image?repo=RohanCyberOps/Rust-Weather-App&columns=24" />
+<a href="https://github.com/INRCyber/Rust-Weather--App/graphs/contributors">
+  <img alt="Rust-Weather-App contributors" height="48" src="https://contrib.rocks/image?repo=INRCyber/Rust-Weather-App&columns=24" />
 </a>
 
 Thank you for your valuable contributions. Let us continue to innovate and build—together.
