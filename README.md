@@ -10,7 +10,7 @@
 
 
 ---
-[![INRCyber](https://img.shields.io/badge/CyberOps-%23005BAC.svg?logo=github&logoColor=white)](https://github.com/INRCyber)  [![IRNDevc](https://img.shields.io/badge/DevOps-%23FFFFFF.svg?logo=github&logoColor=black)](https://github.com/IRNDevc)  [![RohanNaagar](https://img.shields.io/badge/RohanNaagar-%23ED2939.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
+[![IRNCyber](https://img.shields.io/badge/CyberOps-%23005BAC.svg?logo=github&logoColor=white)](https://github.com/IRNCyber)  [![IRNDevc](https://img.shields.io/badge/DevOps-%23FFFFFF.svg?logo=github&logoColor=black)](https://github.com/IRNDevc)  [![RohanNaagar](https://img.shields.io/badge/RohanNaagar-%23ED2939.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
 
 ---
 # 👋 Hi, I'm Rohan Naagar    
@@ -30,39 +30,39 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 📍 Gurugram, Haryana<br>
 
 ## 🕸️ **Websites**  
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://INRCyber.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io) [![MAA GANGA RO WATER SUPPLY](https://img.shields.io/badge/MAA%20GANGA%20RO%20WATER%20SUPPLY-ADD8E6?style=flat-square&logo=github&logoColor=white)](https://maagangarowatersuppliers.github.io)
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://IRNCyber.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io) [![MAA GANGA RO WATER SUPPLY](https://img.shields.io/badge/MAA%20GANGA%20RO%20WATER%20SUPPLY-ADD8E6?style=flat-square&logo=github&logoColor=white)](https://maagangarowatersuppliers.github.io)
 
 
 ## ⭕ **Organization**  
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBER](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github)](https://INRCyber.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBER](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github)](https://IRNCyber.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
 
 
 ## 📧 **Contact**  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/INRCyber)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/IRNCyber)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
 
 ## 🌍 **Social Media**  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rohannaagar66)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rohannaagar01/)  [![Threads](https://img.shields.io/badge/Threads-%2300A2FF.svg?logo=threads&logoColor=white)](https://threads.net/rohannaagar01)  [![Bluesky](https://img.shields.io/badge/Bluesky-%230099FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/INRCyber.bsky.social)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@INRCyber)  [![Tumblr](https://img.shields.io/badge/Tumblr-%234C4C4C.svg?logo=tumblr&logoColor=white)](https://INRCyber.tumblr.com)  [![Mastodon](https://img.shields.io/badge/Mastodon-%2386A7F5.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@INRCyber)  [![VK](https://img.shields.io/badge/VK-%23007BFF.svg?logo=vk&logoColor=white)](https://vk.com/id1025866810)  [![Odnoklassniki](https://img.shields.io/badge/Odnoklassniki-%23F4731C.svg?logo=odnoklassniki&logoColor=white)](https://ok.ru/profile/910071404052)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rohannaagar66)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rohannaagar01/)  [![Threads](https://img.shields.io/badge/Threads-%2300A2FF.svg?logo=threads&logoColor=white)](https://threads.net/rohannaagar01)  [![Bluesky](https://img.shields.io/badge/Bluesky-%230099FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/IRNCyber.bsky.social)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@IRNCyber)  [![Tumblr](https://img.shields.io/badge/Tumblr-%234C4C4C.svg?logo=tumblr&logoColor=white)](https://IRNCyber.tumblr.com)  [![Mastodon](https://img.shields.io/badge/Mastodon-%2386A7F5.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@IRNCyber)  [![VK](https://img.shields.io/badge/VK-%23007BFF.svg?logo=vk&logoColor=white)](https://vk.com/id1025866810)  [![Odnoklassniki](https://img.shields.io/badge/Odnoklassniki-%23F4731C.svg?logo=odnoklassniki&logoColor=white)](https://ok.ru/profile/910071404052)  
 
 
 ## 🐦 **Microblogging & Forums**  
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/RohanNaagar/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
 
 ## 🏆 **Professional & Developer Platforms**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohannaagar666)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/INRCyber)   [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google&logoColor=white)](https://www.commudle.com/users/INRCyber)  [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/INRCyber)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohannaagar666)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/IRNCyber)   [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google&logoColor=white)](https://www.commudle.com/users/IRNCyber)  [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/IRNCyber)  
 
 ## 💻 **Developer & Open Source**  
-[![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/INRCyber)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/INRCyber)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/INRCyber)  
+[![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/IRNCyber)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/IRNCyber)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/IRNCyber)  
 
 ## 🎗️ **Programming Profiles**  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/IRNDev/)  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=coursera&logoColor=white)](https://www.coursera.org/user/f3bdf7152cfb4a2af572afdc67e2ca3b)  [![Codecademy](https://img.shields.io/badge/Codecademy-%231E415E.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/RohanDevOps)  [![Udemy](https://img.shields.io/badge/Udemy-%23EC5252.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/rohan-naagar/)  
 
 
 ## 😈 **Ethical Hacker**  
-[![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/INRCyber)
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23181717.svg?logo=hackerone&logoColor=white)](https://hackerone.com/INRCyber)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%2300FF41.svg?logo=Hack%20The%20Box&logoColor=white)](https://app.hackthebox.com/profile/INRCyber)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/INRCyber)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/INRCyber)
+[![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/IRNCyber)
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23181717.svg?logo=hackerone&logoColor=white)](https://hackerone.com/IRNCyber)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%2300FF41.svg?logo=Hack%20The%20Box&logoColor=white)](https://app.hackthebox.com/profile/IRNCyber)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IRNCyber)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/IRNCyber)
 
 
 ## 🎮 **Streaming & Video Platforms**  
@@ -331,13 +331,13 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 # 📊 Stats:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <a href="https://tryhackme.com/p/INRCyber" target="_blank" rel="noopener noreferrer">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/INRCyber.png" 
-             alt="TryHackMe Badge - INRCyber" 
+    <a href="https://tryhackme.com/p/IRNCyber" target="_blank" rel="noopener noreferrer">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/IRNCyber.png" 
+             alt="TryHackMe Badge - IRNCyber" 
              style="max-width: 300px; width: 50%; height: auto;">
     </a> <a href="https://app.hackthebox.com/profile/2313221" target="_blank" rel="noopener noreferrer">
         <img src="https://www.hackthebox.com/badge/image/2313221.png" 
-             alt="Hack The Box Badge - INRCyber" 
+             alt="Hack The Box Badge - IRNCyber" 
              style="max-width: 300px; width: 50%; height: auto;">
     </a>
 </div>
@@ -346,9 +346,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
               
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=INRCyber&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=INRCyber&theme=flag-india&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=INRCyber&theme=flag-india&hide_border=false&layout=compact&langs_count=20&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=IRNCyber&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=IRNCyber&theme=flag-india&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IRNCyber&theme=flag-india&hide_border=false&layout=compact&langs_count=20&count_private=true)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -365,8 +365,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 We extend our sincere appreciation to all individuals who have contributed to this project. Your commitment and effort play a pivotal role in enhancing the quality and functionality of this repository.
 
-<a href="https://github.com/INRCyber/Rust-Weather--App/graphs/contributors">
-  <img alt="Rust-Weather-App contributors" height="48" src="https://contrib.rocks/image?repo=INRCyber/Rust-Weather-App&columns=24" />
+<a href="https://github.com/IRNCyber/Rust-Weather--App/graphs/contributors">
+  <img alt="Rust-Weather-App contributors" height="48" src="https://contrib.rocks/image?repo=IRNCyber/Rust-Weather-App&columns=24" />
 </a>
 
 Thank you for your valuable contributions. Let us continue to innovate and build—together.
