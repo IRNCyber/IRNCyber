@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%2300FF41.svg?logo=Hack%20The%20Box&logoColor=white)](https://app.hackthebox.com/profile/IRNCyber)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IRNCyber)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/IRNCyber)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23F4C75.svg?logo=hacken&logoColor=green)](https://www.hackerrank.com/profile/rohannaagar666)
 
 ## 🎮 **Streaming & Video Platforms**  
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/IRNGurjar)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1139736828929384548)
