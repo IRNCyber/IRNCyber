@@ -29,6 +29,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
+## 🎓 **Certification Profile**  
+[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?logo=credly&logoColor=white)](https://www.credly.com/users/rohannaagar/)
+
 ## 🕸️ **Websites**  
 [![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://IRNCyber.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io) [![MAA GANGA RO WATER SUPPLY](https://img.shields.io/badge/MAA%20GANGA%20RO%20WATER%20SUPPLY-ADD8E6?style=flat-square&logo=github&logoColor=white)](https://maagangarowatersuppliers.github.io)
 
@@ -55,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 ## 🎗️ **Programming Profiles**  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/IRNDev/)  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=coursera&logoColor=white)](https://www.coursera.org/user/f3bdf7152cfb4a2af572afdc67e2ca3b)  [![Codecademy](https://img.shields.io/badge/Codecademy-%231E415E.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/RohanDevOps)  [![Udemy](https://img.shields.io/badge/Udemy-%23EC5252.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/rohan-naagar/)  
-
+ 
 
 ## 😈 **Ethical Hacker**  
 [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/IRNCyber)
